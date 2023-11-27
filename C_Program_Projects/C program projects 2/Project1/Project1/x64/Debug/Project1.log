@@ -1,0 +1,7 @@
+﻿  CHEBEM.cpp
+c:\users\samsung\downloads\chebem.cpp(35): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\samsung\downloads\chebem.cpp(35): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\samsung\downloads\chebem.cpp(35): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\samsung\downloads\chebem.cpp(37): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\samsung\downloads\chebem.cpp(37): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+  Project1.vcxproj -> C:\Users\SAMSUNG\source\repos\Project1\x64\Debug\Project1.exe

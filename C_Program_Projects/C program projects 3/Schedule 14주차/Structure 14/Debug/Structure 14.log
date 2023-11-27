@@ -1,0 +1,9 @@
+﻿  14실습 과제 .cpp
+c:\users\samsung\source\repos\schedule 14주차\structure 14\14실습 과제 .cpp(32): error C3861: 'movies_information': identifier not found
+c:\users\samsung\source\repos\schedule 14주차\structure 14\14실습 과제 .cpp(33): error C3861: 'print_information': identifier not found
+  Source.cpp
+c:\users\samsung\source\repos\schedule 14주차\structure 14\source.cpp(86): error C2079: 'info' uses undefined struct 'main::movie'
+c:\users\samsung\source\repos\schedule 14주차\structure 14\source.cpp(87): error C3861: 'movies_information': identifier not found
+c:\users\samsung\source\repos\schedule 14주차\structure 14\source.cpp(88): error C2109: subscript requires array or pointer type
+c:\users\samsung\source\repos\schedule 14주차\structure 14\source.cpp(88): error C3861: 'print_information': identifier not found
+  Generating Code...

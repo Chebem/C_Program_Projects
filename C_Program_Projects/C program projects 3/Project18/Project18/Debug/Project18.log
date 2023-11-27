@@ -1,0 +1,2 @@
+﻿  6 week.cpp
+c:\users\samsung\downloads\6 week.cpp(367): error C4700: uninitialized local variable 'big' used

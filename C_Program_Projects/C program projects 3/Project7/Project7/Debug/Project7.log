@@ -1,0 +1,5 @@
+﻿  13주차.cpp
+c:\users\samsung\source\repos\project7\project7\13주차.cpp(103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\samsung\source\repos\project7\project7\13주차.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\samsung\source\repos\project7\project7\13주차.cpp(106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project7.vcxproj -> C:\Users\SAMSUNG\source\repos\Project7\Debug\13주차 과.exe

@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\samsung\source\repos\project15\project15\source.cpp(23): error C2086: 'const char *weekDays[7]': redefinition
+  c:\users\samsung\source\repos\project15\project15\source.cpp(7): note: see declaration of 'weekDays'
+c:\users\samsung\source\repos\project15\project15\source.cpp(30): error C2360: initialization of 'cnt' is skipped by 'case' label
+  c:\users\samsung\source\repos\project15\project15\source.cpp(28): note: see declaration of 'cnt'
+c:\users\samsung\source\repos\project15\project15\source.cpp(34): error C2360: initialization of 'cnt' is skipped by 'case' label
+  c:\users\samsung\source\repos\project15\project15\source.cpp(28): note: see declaration of 'cnt'
+c:\users\samsung\source\repos\project15\project15\source.cpp(38): error C2360: initialization of 'cnt' is skipped by 'case' label
+  c:\users\samsung\source\repos\project15\project15\source.cpp(28): note: see declaration of 'cnt'
+c:\users\samsung\source\repos\project15\project15\source.cpp(42): error C2360: initialization of 'cnt' is skipped by 'case' label
+  c:\users\samsung\source\repos\project15\project15\source.cpp(28): note: see declaration of 'cnt'
+c:\users\samsung\source\repos\project15\project15\source.cpp(46): error C2360: initialization of 'cnt' is skipped by 'case' label
+  c:\users\samsung\source\repos\project15\project15\source.cpp(28): note: see declaration of 'cnt'
+c:\users\samsung\source\repos\project15\project15\source.cpp(50): error C2360: initialization of 'cnt' is skipped by 'case' label
+  c:\users\samsung\source\repos\project15\project15\source.cpp(28): note: see declaration of 'cnt'
+c:\users\samsung\source\repos\project15\project15\source.cpp(54): error C2361: initialization of 'cnt' is skipped by 'default' label
+  c:\users\samsung\source\repos\project15\project15\source.cpp(28): note: see declaration of 'cnt'

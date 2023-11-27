@@ -1,0 +1,4 @@
+﻿  reall worl.cpp
+c:\users\samsung\desktop\reall worl.cpp(20): warning C4101: 'hr': unreferenced local variable
+c:\users\samsung\desktop\reall worl.cpp(20): warning C4101: 'min': unreferenced local variable
+  PrWORK.vcxproj -> C:\Users\SAMSUNG\source\repos\PrWORK\Debug\PrWORK.exe

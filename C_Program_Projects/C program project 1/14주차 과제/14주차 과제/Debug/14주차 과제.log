@@ -1,0 +1,2 @@
+﻿14주차 괴제.obj : error LNK2019: unresolved external symbol "void __cdecl print_information(struct movie)" (?print_information@@YAXUmovie@@@Z) referenced in function _main
+C:\Users\SAMSUNG\source\repos\14주차 과제\Debug\14주차 과제.exe : fatal error LNK1120: 1 unresolved externals

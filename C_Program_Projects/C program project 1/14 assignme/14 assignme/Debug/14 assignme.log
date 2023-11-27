@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\samsung\source\repos\14 assignme\14 assignme\source.cpp(30): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+  14 assignme.vcxproj -> C:\Users\SAMSUNG\source\repos\14 assignme\Debug\14 assignme.exe

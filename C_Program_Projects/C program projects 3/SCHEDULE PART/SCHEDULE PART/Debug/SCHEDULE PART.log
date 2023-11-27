@@ -1,0 +1,4 @@
+﻿  Schedulecpp.cpp
+c:\users\samsung\source\repos\schedule part\schedule part\schedulecpp.cpp(19): warning C4101: 'hr': unreferenced local variable
+c:\users\samsung\source\repos\schedule part\schedule part\schedulecpp.cpp(19): warning C4101: 'min': unreferenced local variable
+  SCHEDULE PART.vcxproj -> C:\Users\SAMSUNG\source\repos\SCHEDULE PART\Debug\SCHEDULE PART.exe

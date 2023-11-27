@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\samsung\source\repos\project16\project16\source.cpp(33): error C3861: 'interface': identifier not found
+c:\users\samsung\source\repos\project16\project16\source.cpp(58): error C3861: 'seetodo': identifier not found
+c:\users\samsung\source\repos\project16\project16\source.cpp(61): error C3861: 'createtodo': identifier not found
+c:\users\samsung\source\repos\project16\project16\source.cpp(64): error C3861: 'deletetodo': identifier not found
+c:\users\samsung\source\repos\project16\project16\source.cpp(191): error C3861: 'gets': identifier not found
+c:\users\samsung\source\repos\project16\project16\source.cpp(205): error C3861: 'gets': identifier not found
+c:\users\samsung\source\repos\project16\project16\source.cpp(223): error C3861: 'adjustcount': identifier not found
+c:\users\samsung\source\repos\project16\project16\source.cpp(273): error C3861: 'adjustcount': identifier not found
+c:\users\samsung\source\repos\project16\project16\source.cpp(280): error C3861: 'adjustcount': identifier not found
